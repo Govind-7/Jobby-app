@@ -1,0 +1,32 @@
+.header-bg {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: #2c364c;
+  padding: 15px;
+  color: white;
+}
+
+.header-icons {
+  display: flex;
+  list-style-type: none;
+}
+
+.logout-but {
+  background-color: blue;
+  color: white;
+  padding: 11px;
+  border-width: 0px;
+  border-radius: 10px;
+  width: 100px;
+  margin-top: 10px;
+}
+
+.header-home-icon {
+  margin-right: 25px;
+}
+
+.special-header {
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,27 @@
+.login-bg {
+  background-color: black;
+  color: white;
+  padding: 30px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-input-elements {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 400px;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 10px;
+  color: white;
+}
+.login-button {
+  width: 400px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+}

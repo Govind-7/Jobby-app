@@ -1,0 +1,7 @@
+.not-found {
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 100vh;
+  padding: 60px;
+}

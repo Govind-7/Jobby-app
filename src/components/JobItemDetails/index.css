@@ -1,0 +1,50 @@
+.skill-img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.skill-img-align {
+  display: flex;
+  margin: 30px;
+}
+.skill-container {
+  display: flex;
+
+  flex-wrap: wrap;
+}
+.company-life {
+  display: flex;
+  justify-content: space-between;
+}
+
+.job-details-bg {
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+
+.job-details-bg-loader {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  padding: 30px;
+  height: 100vh;
+}
+
+.similar-jobs-cont-align {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.special-website-link {
+  color: aliceblue;
+  font-size: 20px;
+}
+
+.website-link-align {
+  display: flex;
+  justify-content: space-between;
+}

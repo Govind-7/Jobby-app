@@ -1,0 +1,26 @@
+.jobs-filter {
+  display: flex;
+  padding: 30px;
+  background-color: black;
+  color: white;
+}
+
+.filters {
+  margin-right: 30px;
+}
+
+.failureview-bg {
+  text-align: center;
+}
+
+.profile-failure {
+  width: 250px;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-style {
+  list-style-type: none;
+}
